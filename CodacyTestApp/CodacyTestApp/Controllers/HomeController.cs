@@ -26,9 +26,7 @@ namespace CodacyTestApp.Controllers
 
 		private void NewPrivateMethod()
 		{
-			/*
-			  NOP
-			 */
+			// Deleted comment
 		}
 	}
 }
